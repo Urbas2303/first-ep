@@ -49,6 +49,7 @@ body {
 
 .hero-image {
   margin-bottom: 25%;
+  text-shadow: white 0 0 20px;
 }
 .hero-image .container {
   max-width: 1408px;
