@@ -9,11 +9,11 @@ body {
   background-image: url("img/bg_foto.jpg");
   background-size: 100% auto;
   background-repeat: no-repeat;
-  background-position: top center;
+  background-position: top right;
 }
 
 .container {
-  /*max-width: 928px;*/
+  max-width: 928px;
   margin: 0 auto;
   padding: 0 16px;
 }
@@ -25,7 +25,7 @@ body {
 
 .page-header .container,
 .page-footer .container {
-  /*max-width: 1408px;*/
+  max-width: 1408px;
   text-align: right;
 }
 
